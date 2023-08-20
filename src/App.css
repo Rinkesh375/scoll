@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.ImageGallery {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-height: 100vh; 
+  overflow-y: scroll; 
+}
+
+.GalleryImage {
+  max-width: 100%;
+  margin: 16px;
+}
+
+
